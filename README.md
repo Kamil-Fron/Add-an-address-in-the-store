@@ -1,2 +1,4 @@
 # Add an address in the store
-Add an address to an existing account, delete an address, and validate.
+
+The task is to add an address to an existing account, delete the address and validate.
+The program was written in java using Selenium WebDriver, cucumber and Gherkin.
